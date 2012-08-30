@@ -1,0 +1,41 @@
+.cart h1 a{
+    color : black;
+}
+
+.cart h1 a:hover {
+    text-decoration: none;
+}
+
+.category ul{
+    padding-left: 0;
+}
+
+.category ul li{
+    list-style: none;
+}
+
+.category h3 a{
+    color: green;
+}
+
+.category h3 a:hover{
+    text-decoration: none;
+}
+
+.cart_table a{
+    text-decoration: none;
+    color: red;
+}
+
+.cart_table a:hover{
+    color: greenyellow;
+}
+
+.back a{
+    text-decoration: none;
+    color: red;
+}
+
+.back a:hover{
+    text-decoration: underline;
+}
